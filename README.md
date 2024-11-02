@@ -26,4 +26,4 @@
 - [Имя пользователя для удаления] (ссылка на профиль на GitHub)
 
 ## Лицензия
-
+[Здесь](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
