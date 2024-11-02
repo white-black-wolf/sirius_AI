@@ -1,2 +1,2 @@
 # sirius_AI
-Привет друзья
+jopa is good word
