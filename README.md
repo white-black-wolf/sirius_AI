@@ -23,7 +23,8 @@
 
 ## Разработчики
 
-- [Имя пользователя для удаления] (ссылка на профиль на GitHub)
+- [Иван] (https://github.com/vanish12345)
+- [Кирилл] (https://github.com/white-black-wolf)
 
 ## Лицензия
 [Здесь](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
