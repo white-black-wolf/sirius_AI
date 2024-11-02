@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/python-3.11-blue" alt="python version">
+ <img src="https://img.shields.io/badge/python-3.11-blue" alt="Версия python">
  <img src="https://img.shields.io/badge/version-0.1(beta)-purple" alt="Версия игры">
+ <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="Лицензия">
 </p>
 
 ## О проекте
