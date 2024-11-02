@@ -27,4 +27,6 @@
 - [wbw](https://github.com/white-black-wolf)
 
 ## Лицензия
+Проект sirius_AI распространяеться под лицензией MIT.
+
  [Лицензия](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
