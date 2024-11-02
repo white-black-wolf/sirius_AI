@@ -30,8 +30,8 @@ Multinomial Naive Bayes (MultinomialNB) — это мощный алгоритм
 
 ## Разработчики
 
-- [Vanish](https://github.com/vanish12345)
 - [wbw](https://github.com/white-black-wolf)
+- [Vanish](https://github.com/vanish12345)
 
 ## Лицензия
 Проект sirius_AI распространяеться под лицензией MIT.
