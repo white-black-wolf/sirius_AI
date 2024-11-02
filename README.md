@@ -16,15 +16,11 @@
 
 Документация Здесь
 
-## Распространять
-
-- [Название сервиса] (ссылка на страницу)
-
 
 ## Разработчики
 
-- [Иван] (https://github.com/vanish12345)
-- [Кирилл] (https://github.com/white-black-wolf)
+- [Vanish](https://github.com/vanish12345)
+- [white-black-wolf](https://github.com/white-black-wolf)
 
 ## Лицензия
-[Здесь](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
+ [Лицензия](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
