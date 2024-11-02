@@ -21,6 +21,7 @@
 
 - [Vanish](https://github.com/vanish12345)
 - [wbw](https://github.com/white-black-wolf)
+- [DefinetlyNotFomenko](https://github.com/MrFome14)
 
 ## Лицензия
  [Лицензия](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
