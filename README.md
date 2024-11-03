@@ -68,10 +68,10 @@
 <h3>Скорость</h3> 
 
 модель/метод | TF-IDF | Bag-of-Words | Word Embeddings
-:------------|:------:|:------------:|----------------:
-[Нейронная сеть](https://ru.wikipedia.org/wiki/Нейронная_сеть) | | |
-[SVM](https://ru.wikipedia.org/wiki/Метод_опорных_векторов) | | |
-[MultinomialNB](https://sklearn.vercel.app/docs/classes/MultinomialNB) | | |
+:------------:|:------:|:------------:|:----------------:
+[Нейронная сеть](https://ru.wikipedia.org/wiki/Нейронная_сеть) | 10 | 14 | 13
+[SVM](https://ru.wikipedia.org/wiki/Метод_опорных_векторов) | 16 | 20 | 19
+[MultinomialNB](https://sklearn.vercel.app/docs/classes/MultinomialNB) | 23 | 16 | 29
 
 По результатам наших тестов мы выбрали модель машинного обучения MultinomialNB из библиотеки [sklearn.naive_bayes](https://scikit-learn.org/stable/modules/naive_bayes.html) и метод векторизация [Bag-of-Words](https://ru.wikipedia.org/wiki/Мешок_слов) из библиотеки [sklearn.feature_extraction.text](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html).
 
