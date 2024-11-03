@@ -83,6 +83,7 @@ Multinomial Naive Bayes (MultinomialNB) — это мощный алгоритм
 - Посты в социальных сетях и мессенджерах(Вк, телеграмм)
 - Выдержки из новостей
 - Посты сгенерированные нейросетью
+
 База данных храниться в формате [database](https://ru.wikipedia.org/wiki/DBF). Взаимодействие с базой данных происходило через язык программирования [SQL](https://ru.wikipedia.org/wiki/SQL), который можно использовать в python с помощью библиотеки [SQLite](https://docs.python.org/3/library/sqlite3.html)!
 
 <a id="developers"></a>
