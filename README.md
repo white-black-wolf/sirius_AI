@@ -62,7 +62,8 @@
 [SVM](https://ru.wikipedia.org/wiki/Метод_опорных_векторов) | 94% | 97% | 98%
 [MultinomialNB](https://sklearn.vercel.app/docs/classes/MultinomialNB) | 87% | 88% | 88%
 
-Все эти тесты можно увидеть в test.ipnb!
+Все эти тесты можно увидеть в [test.ipynb](https://github.com/white-black-wolf/test_summa/blob/main/tests.ipynb)!
+Итоговую модель и метод можно посмотреть в файле [main.ipynb](https://github.com/white-black-wolf/test_summa/blob/main/main.ipynb) и [main.py](https://github.com/white-black-wolf/test_summa/blob/main/main.py)!
 
 
 По результатам наших тестов мы выбрали модель машинного обучения SVM из библиотеки _____ и метод векторизация One-Hot Encoding из библиотеки ____.
