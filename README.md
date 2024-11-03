@@ -63,6 +63,7 @@
 [MultinomialNB](https://sklearn.vercel.app/docs/classes/MultinomialNB) | 87% | 88% | 88%
 
 Все эти тесты можно увидеть в [test.ipynb](https://github.com/white-black-wolf/test_summa/blob/main/tests.ipynb)!
+
 Итоговую модель и метод можно посмотреть в файле [main.ipynb](https://github.com/white-black-wolf/test_summa/blob/main/main.ipynb) и [main.py](https://github.com/white-black-wolf/test_summa/blob/main/main.py)!
 
 
