@@ -94,7 +94,7 @@ Multinomial Naive Bayes (MultinomialNB) — это мощный алгоритм
 
 <a id="license"></a>
 ## 🏛️Лицензия
-Проект sirius_AI распространяеться под лицензией MIT.
+Проект summa+ распространяеться под лицензией MIT.
 
  [Лицензия](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
  
