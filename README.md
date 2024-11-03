@@ -11,6 +11,8 @@
 ## Оглавление
 - [O проеке](#about_project)
 - [Документация](#documentation)
+- [Разработчики](#developers)
+- [Лицензия](#license)
 
 
 <a id="about_project"><a>
@@ -33,12 +35,13 @@ Multinomial Naive Bayes (MultinomialNB) — это мощный алгоритм
 Для анализа текста с помощью модели машинного обучения мы преобразововали каждое слово в тексте в вектор с помощью метода [Bag-of-Words](https://ru.wikipedia.org/wiki/Мешок_слов).
 
 
-
+<a id="developers"><a>
 ## Разработчики
 
 - [wbw](https://github.com/white-black-wolf)
 - [Vanish](https://github.com/vanish12345)   
 
+<a id="license"><a>
 ## Лицензия
 Проект sirius_AI распространяеться под лицензией MIT.
 
