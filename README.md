@@ -50,8 +50,8 @@
 модель | точность, %
 :------|------------:
 [Нейронная сеть](https://ru.wikipedia.org/wiki/Нейронная_сеть) | 58
-SVM | 63
-MultinomialNB | 67
+[SVM](https://ru.wikipedia.org/wiki/Метод_опорных_векторов) | 63
+[MultinomialNB](https://sklearn.vercel.app/docs/classes/MultinomialNB) | 67
 
 Сравнив показатели, мы пришли к выводу что модель MultinomialNB подходит лучше всего, для решения нашей задачи!
 
