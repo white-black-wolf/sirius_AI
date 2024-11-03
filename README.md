@@ -1,7 +1,8 @@
+<a id="up"></a>
+
 <p align="center">
  <img src="https://i.ibb.co/99qgRP3/summma.jpg" alt="Project logo"width="726">
 </p>
-<a id="up"></a>
 <p align="center">
  <img src="https://img.shields.io/badge/python-3.11-blue" alt="Версия python">
  <img src="https://img.shields.io/badge/version-0.1(beta)-purple" alt="Версия игры">
